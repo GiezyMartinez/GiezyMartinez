@@ -2,7 +2,7 @@
 
 **_Actualmente estudio el último semestre de la carrera Ing. En sistemas computaciones en Instituto Tecnológico de Tijuana. Tengo 25 años y soy originario del estado de Veracruz, pero vivo en Tijuana B.c. desde hace 20 años. De todas las ramas de la computación me llama mucho la programación, en especial el desarrollo web._**
 
-Here are some ideas to get you started:
+Pasatiempos favoritos: :kissing_heart::kissing_heart:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
