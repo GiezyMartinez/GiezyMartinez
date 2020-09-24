@@ -10,3 +10,11 @@ _Actualmente estudio el último semestre de la carrera Ing. En sistemas computac
 - Suelo escuchar música para distraerme:musical_score::musical_score::musical_score:
 - Disfruto jugar con mis mascotas :dog::dog::dog:
 - Cocinar me entretiene :fork_and_knife::fork_and_knife::fork_and_knife:
+
+### Conocimientos de programación:
+
+Backend | Frontend
+------------ | -------------
+POO | HTML5
+ASP.net MVC | CSS3(Boostrap)
+Django | Javascrip
