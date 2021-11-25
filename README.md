@@ -6,14 +6,6 @@ _Actualmente estudio el último semestre de la carrera Ing. En sistemas computac
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466247.gif" width="362" height="105" alt="developer" /></a>
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-### Pasatiempos favoritos: :smiley::smiley::smiley:
-
-- Me encanta jugar futbol soccer :soccer::soccer:
-- Cuando necesito despejar mi mente leo un buen libro :book::book::book:
-- Suelo escuchar música para distraerme:musical_score::musical_score::musical_score:
-- Disfruto jugar con mis mascotas :dog::dog::dog:
-- Cocinar me entretiene :fork_and_knife::fork_and_knife::fork_and_knife:
-
 ### Conocimientos de programación:
 
 Backend | Frontend
