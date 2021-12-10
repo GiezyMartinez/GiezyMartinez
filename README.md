@@ -1,5 +1,6 @@
 # Un poco sobre mi.
-![Desarrollo web](https://pca.edu.co/wp/wp-content/uploads/2017/10/tecnologia-en-desarrollo-de-software.jpg)
+In this Github profile I have 
+
 
 _Actualmente estudio el último semestre de la carrera Ing. En sistemas computaciones en Instituto Tecnológico de Tijuana. Tengo 25 años y soy originario del estado de Veracruz, pero vivo en Tijuana B.c. desde hace 20 años. De todas las ramas de la computación me llama mucho la programación, en especial el desarrollo web._ 
 
